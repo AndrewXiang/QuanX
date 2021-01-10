@@ -9,8 +9,8 @@
 
 let subscriptions = [
     {
-        link: "订阅地址1",
-        name: "取个名字1",
+        link: "https://sockboom.me/link/nQVkTKJH2QEv2VrF?mu=1",
+        name: "SockBoom",
         icon: "https://raw.githubusercontent.com/Orz-3/mini/master/pudding.png"
     },
     {
